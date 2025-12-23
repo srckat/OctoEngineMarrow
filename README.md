@@ -1,3 +1,5 @@
+# THIS PROJECT IS NO LONGER MAINTAINED
+
 # OctoEngineMarrow
 An advanced BONELAB code modding framework, designed from the ground up.
 
